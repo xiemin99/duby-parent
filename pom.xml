@@ -11,7 +11,6 @@
     <modules>
         <module>duby-common</module>
     </modules>
-    <!---测试冲突---->
          <!--ssss-->
     <parent>
         <groupId>org.springframework.boot</groupId>
